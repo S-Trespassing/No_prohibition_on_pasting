@@ -1,0 +1,2 @@
+# No_prohibition_on_pasting
+模拟键盘输入解决某些学习网页禁止粘贴的问题
